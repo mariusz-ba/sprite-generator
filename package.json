@@ -1,0 +1,16 @@
+{
+  "name": "sprite-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Mariusz Baran <mariusz.baran23@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "imagemin": "^6.1.0",
+    "imagemin-jpegtran": "^6.0.0",
+    "merge-img": "^2.1.2"
+  }
+}
